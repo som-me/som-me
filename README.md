@@ -4,11 +4,11 @@ Hi there! I'm Soumya Ranjan Meher, but you can call me Som. I'm a 2nd year under
 
 Skills and Technologies
 Programming Languages:
-Java ☕
-JavaScript 🌐
-C 💻
+: Java ☕
+: JavaScript 🌐
+: C 💻
 Frameworks and Libraries:
-React ⚛️
-Django 🌍
+: React ⚛️
+: Django 🌍
 Tools and Platforms:
-Git 🐙
+: Git 🐙
