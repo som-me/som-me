@@ -1,16 +1,14 @@
-## Hi there 👋
+Welcome to Soumya Ranjan Meher's GitHub Profile! 👋
+About Me
+Hi there! I'm Soumya Ranjan Meher, but you can call me Som. I'm a 2nd year undergrad engineering student majoring in Computer Science and Engineering. I have a strong passion for both designing and developing. 🚀
 
-<!--
-**som-me/som-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills and Technologies
+Programming Languages:
+Java ☕
+JavaScript 🌐
+C 💻
+Frameworks and Libraries:
+React ⚛️
+Django 🌍
+Tools and Platforms:
+Git 🐙
