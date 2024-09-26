@@ -7,6 +7,7 @@ Programming Languages:
 : Java ☕
 : JavaScript 🌐
 : C 💻
+: Python
 Frameworks and Libraries:
 : React ⚛️
 : Django 🌍
